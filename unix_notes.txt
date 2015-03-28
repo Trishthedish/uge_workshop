@@ -7,7 +7,8 @@ ls
 #redirect output
 history > moving_around.txt #redirect output into a file
 cd
-clear
+# hidden file
+.git/
 man less
 history | less
 hist
