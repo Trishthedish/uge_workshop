@@ -1,0 +1,212 @@
+# cool fish shortcut for list files
+ll
+a simple way to list files in long formatls
+-l
+# simple way to list files
+ls
+#redirect output
+history > moving_around.txt #redirect output into a file
+cd
+clear
+man less
+history | less
+hist
+h
+History | less
+H
+less
+q
+help
+b
+history r
+history
+subl
+subl .
+subl.
+ls .
+..
+ls.
+clear
+.
+Dropbox/
+drop
+cd
+ls ~ down
+ls ~ des
+ls ~
+cd ~
+appplication ls
+applications
+c;ear
+cd../
+cd -ls
+cd ../..
+cd...
+cd..
+back
+pwd #
+documents/
+man ls
+desktop/
+cd ls
+cd documents/
+cd des
+clar
+ls -a
+ls -1
+cler
+ls -R
+CLEAR
+memory_pressure
+ALL
+1
+man
+director
+commands
+ls -lt
+ls -r
+ls -ltr
+ls -lt r
+ls -t
+cd /
+cd/
+cd root
+Trish Griego
+echo $PATH
+ech
+curl -fsSL http://git.io/QxUaOQ | sh
+curl -fsSL http://git.io/7UHtNA | sh
+git config --global user.email 'pmgriego@gmail.com'
+git config --global user.name 'Trish Griego'
+git --version
+brew install git
+subl /etc/paths
+echo $EDITOR
+subl ~/.config/fish/config.fish
+ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
+update
+brew info fish
+brew in fish
+brew in
+fish_update_completions
+curl -fsSL http://git.io/beJs | ruby
+fishupdate
+chsh -s /usr/local/bin/fish
+echo '/usr/local/bin/fish' | sudo tee -a /etc/shells
+brew install fish
+brew doctor
+home brew
+ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/install/master/install)"
+ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/install/master/install)
+locate brew
+brew update
+brewupdate
+update homebrew
+ls-g
+uname
+Clear
+TrishGiego
+ll
+history > moving_around.txt
+ls -l
+ls
+cd
+clear
+man less
+history | less
+hist
+h
+History | less
+H
+less
+q
+help
+b
+history r
+history
+subl
+subl .
+subl.
+ls .
+..
+ls.
+clear
+.
+Dropbox/
+drop
+cd
+ls ~ down
+ls ~ des
+ls ~
+cd ~
+appplication ls
+applications
+c;ear
+cd../
+cd -ls
+cd ../..
+cd...
+cd..
+back
+pwd
+documents/
+man ls
+desktop/
+cd ls
+cd documents/
+cd des
+clar
+ls -a
+ls -1
+cler
+ls -R
+CLEAR
+memory_pressure
+ALL
+1
+man
+director
+commands
+ls -lt
+ls -r
+ls -ltr
+ls -lt r
+ls -t
+cd /
+cd/
+cd root
+Trish Griego
+echo $PATH
+ech
+curl -fsSL http://git.io/QxUaOQ | sh
+curl -fsSL http://git.io/7UHtNA | sh
+git config --global user.email 'pmgriego@gmail.com'
+git config --global user.name 'Trish Griego'
+git --version
+brew install git
+subl /etc/paths
+echo $EDITOR
+subl ~/.config/fish/config.fish
+ln -s /Applications/Sublime\ Text\ 2.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
+update
+brew info fish
+brew in fish
+brew in
+fish_update_completions
+curl -fsSL http://git.io/beJs | ruby
+fishupdate
+chsh -s /usr/local/bin/fish
+echo '/usr/local/bin/fish' | sudo tee -a /etc/shells
+brew install fish
+brew doctor
+home brew
+ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/install/master/install)"
+ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/install/master/install)
+locate brew
+brew update
+brewupdate
+update homebrew
+ls-g
+uname
+Clear
+TrishGiego
