@@ -9,7 +9,7 @@ history > moving_around.txt #redirect output into a file
 cd
 # hidden file
 .git/
-man less
+
 history | less
 hist
 h
